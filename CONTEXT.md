@@ -25,7 +25,7 @@ How often a habit is expected, expressed as "N times in D days" over a sliding w
 _Avoid_: Schedule, recurrence, repeat interval
 
 **Rest day**:
-A day on which the habit is not expected because earlier Yes answers already satisfy its Frequency. Counts toward streaks.
+A day on which the habit is not expected because earlier Yes answers already satisfy its Frequency. Counts toward streaks. A No answered on a Rest day is shown and counted as a Rest day.
 _Avoid_: Auto-yes, free day, off day, unplanned day
 
 **Due day**:
