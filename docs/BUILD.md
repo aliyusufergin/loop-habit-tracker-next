@@ -41,6 +41,8 @@ The repository will be downloaded to the directory `uhabits`.
 
 The following instructions were tested on **Ubuntu Linux 24.04 LTS** and may need to be modified for other operating systems.
 
+On Ubuntu, `scripts/setup-dev-env.sh` walks you through steps 1, 2 and 4 interactively: it installs JDK 17 and the Android SDK, points Gradle at the SDK, builds the app and runs the unit tests. It can optionally create the emulator for instrumented tests.
+
 ### Step 1: Install basic packages
 
 To build the application, some basic packages are required. The package `git` is required to download the source code, while `openjdk-17-jdk-headless` is required for compiling Java and Kotlin files.
